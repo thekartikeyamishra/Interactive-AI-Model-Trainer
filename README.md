@@ -1,4 +1,4 @@
-#  Interactive AI Model Trainer (v2 - Colab) 🧪🤖
+#  Interactive AI Model Trainer  🧪🤖
 
 **Version:** 2.0.0
 **Last Updated:** May 21, 2025
